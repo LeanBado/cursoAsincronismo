@@ -1,11 +1,11 @@
 const algoPasa = () => {
     //retornar una promesa con dos argumentos (resolve=si se ejecuta, reject=si se rechaza)
     return new Promise((resolve, reject) => {
-        //si es verdadero, vamos a devolver hey
+        //si es verdadero, vamos a devolver
         if (true) {
             resolve("siiiii")
         }
-        //si no entonces devolvemos wooops
+        //si no entonces devolvemos 
         else {
             reject("noooo")
         }

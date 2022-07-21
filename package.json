@@ -1,0 +1,24 @@
+{
+  "name": "cursoasincronismo",
+  "version": "1.0.0",
+  "description": "curso de asincronismo:     practica basica de terminos como callback, promise, async, awayt",
+  "main": "practica1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeanBado/cursoAsincronismo.git"
+  },
+  "author": "Lea",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LeanBado/cursoAsincronismo/issues"
+  },
+  "homepage": "https://github.com/LeanBado/cursoAsincronismo#readme",
+  "dependencies": {
+    "node-fetch": "^3.2.9",
+    "xmlhttprequest": "^1.8.0"
+  },
+  "type": "module"
+}
